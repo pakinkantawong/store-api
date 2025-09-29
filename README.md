@@ -2,14 +2,6 @@
 
 RESTful API สำหรับจัดการข้อมูลสินค้า (Products)  
 สร้างด้วย **PHP** และ **MySQL** ใช้งานบน **XAMPP**
-## 📌 โครงสร้างโปรเจค
----
-
-store-api/
-│── db.php
-│── index.php
-│── README.md
----
 
 ## ⚙ การทำงานของ API
 
